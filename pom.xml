@@ -7,6 +7,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
+		<!--test -->
 	</parent>
 	<groupId>com.isicod</groupId>
 	<artifactId>spring-core-demo</artifactId>
